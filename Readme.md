@@ -1,1 +1,1 @@
-## Gerrit Test repo  
+## Gerrit Test repository
